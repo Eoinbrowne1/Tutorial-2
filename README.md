@@ -4,5 +4,5 @@ Group 4
 Name:
 - Eoin
 - Ruairi
-- Sean 
+- Sean O
 - Dara
