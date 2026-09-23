@@ -1,2 +1,8 @@
 # Tutorial-2
-print("eoin browne")
+Group 4
+
+Name:
+- Eoin
+- Ruairi
+- Sean 
+- Dara
