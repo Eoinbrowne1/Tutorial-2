@@ -2,7 +2,7 @@
 Group 4
 
 Names:
-- Eoin
+- Eoin B
 - Ruairi
 - Sean O
 - Dara
